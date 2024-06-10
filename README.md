@@ -1,13 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
- 
-## Frontend E-commerce App 👨‍💻
-
-[![](https://img.shields.io/badge/Facebook-AnhQuanNguyen-blue)](https://www.facebook.com/anhquan291/)
-[![](https://img.shields.io/badge/Gmail-anhquan291%40gmail.com-red)](mailto:anhquan291@gmail.com)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Contain all necessary features 
-
-## :star: Get Started
+## Get Started
 
 ```bash
 # install expo cli
@@ -31,7 +22,7 @@ Change the API in config.js to the server that you're running.
 If you use my backend project the IP should be the IPv4 Address on your computer (cmd -> ipconfig)
 ```
 
-## :star: Features
+## Features
 - Authentication (Signup, Login, Reset Password).
 - Login with Touch/Face ID.
 - Real time update.
@@ -46,7 +37,7 @@ If you use my backend project the IP should be the IPv4 Address on your computer
 - Share Products to Social Media.
 - Review, Comment, Rating Product (In Processing)
 
-## :star: Technical details
+## Technical details
 - React Native
 - Expo managed workflows.
 - UI framework: Reac Native Paper
@@ -61,7 +52,7 @@ If you use my backend project the IP should be the IPv4 Address on your computer
 - Deep Link: Expo Linking.
 - Touch/Face ID: react native touch id, react native keychain, expo authentication 
 
-## :star: Contributing
+## Contributing
 
 If you'd like to contribute, please fork the repository and make changes as
 you'd like. Pull requests are warmly welcome. Thanks alot
